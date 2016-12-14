@@ -36,6 +36,6 @@ date: 2016-12-14T10:55:07+08:00
 [视频](http://weibo.com/1819935727/ElW6Yl1pc){: .text-left}
 
 
-<iframe width="650" height="598" src="http://weibo.com/1819935727/ElW6Yl1pc" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="650" height="598" src="http://weibo.com/1819935727/ElW6Yl1pc?type=comment" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 
