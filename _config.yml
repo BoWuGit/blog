@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : "renwen"
 description              : "人文、科技、生活"
 url                      : "http://rwxin.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/bowugit.github.io" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bowugit/bowugit.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   :  "/assets/images/default.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
