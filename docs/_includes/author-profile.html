@@ -4,7 +4,7 @@
   {% assign author = site.author %}
 {% endif %}
 
-<div itemscope itemtype="http://schema.org/Person" style="display: inline-block;vertical-align: top;">
+<div itemscope itemtype="http://schema.org/Person">
 
   {% if author.avatar %}
     <div class="author__avatar">
@@ -230,7 +230,4 @@
       {% include author-profile-custom-links.html %}
     </ul>
   </div>
-</div>
-<div style="display: inline-block;vertical-align: top;">
-    {% include newsletter.html%}
 </div>
