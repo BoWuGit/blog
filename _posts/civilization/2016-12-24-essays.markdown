@@ -1,9 +1,10 @@
 ---
 modified:
 layout: single
-title: "纪小龙：无需治疗的疾病"
+title: "纪小龙：无需治疗的疾病【20161224】"
 categories: civilization
 excerpt:
+    纪大夫关于疾病比较系统化的思考，很值得一看。他一些看法在之前的多个场合都有所提及，这篇算是一个整理。方舟子最近写了一篇纪大夫的文章：[我所认识的纪小龙大夫](http://mp.weixin.qq.com/s/mNtofqQewyhVcjzsD2xqIw)，从标题就能看出敬意来。
 #tags: []
 header:
     teaser: http://ww3.sinaimg.cn/large/79a50e50jw1fb1sc60ou7j20dw08lq32.jpg
