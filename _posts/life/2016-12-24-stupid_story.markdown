@@ -1,7 +1,7 @@
 ---
 modified:
 layout: single
-title: "泡馍与卤肉"
+title: "泡馍与卤肉【生活】"
 categories: life
 excerpt:
 #tags: []
