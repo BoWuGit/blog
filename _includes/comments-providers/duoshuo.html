@@ -1,0 +1,36 @@
+{% if site.comments.duoshuo.shortname %}
+<style type="text/css">
+	#ds-reset .ds-avatar img {
+      width: 54px !important;
+      height: 54px !important;
+      -webkit-border-radius: 27px !important;
+      -moz-border-radius: 27px !important;
+      border-radius: 27px !important;
+      -webkit-transition: -webkit-transform 0.4s ease-out;
+      -moz-transition: -moz-transform 0.4s ease-out;
+      transition: transform 0.4s ease-out;
+    }
+    #ds-reset .ds-powered-by {
+      display: none;
+    }
+    #ds-thread {
+      clear: none !important;
+      float: left;
+      margin-top: 0;
+      width: 100%;
+    }
+</style>
+<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+<script type="text/javascript">
+    var duoshuoQuery = {short_name:'{{ site.comments.duoshuo.shortname }}'};
+	(function() {
+		var ds = document.createElement('script');
+		ds.type = 'text/javascript';ds.async = true;
+		ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+		ds.charset = 'UTF-8';
+		(document.getElementsByTagName('head')[0]
+		 || document.getElementsByTagName('body')[0]).appendChild(ds);
+	})();
+	</script>
+<!-- 多说公共JS代码 end -->
+{% endif %}
