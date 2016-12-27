@@ -4,6 +4,9 @@
   {% when "disqus" %}
     <h4 class="page__comments-title">{{ comments_label }}</h4>
     <section id="disqus_thread"></section>
+  {% when "duoshuo" %}
+      <h4 class="page__comments-title">{{ comments_label }}</h4>
+      <section class="ds-thread" {% if page.id %}data-thread-key="{{ page.id }}"{% endif %} data-title="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}" data-url="{{ page.url }}"></section>
   {% when "facebook" %}
     <h4 class="page__comments-title">{{ comments_label }}</h4>
     <section class="fb-comments" data-href="{{ page.url | absolute_url }}" data-mobile="true" data-num-posts="{{ site.comments.facebook.num_posts | default: 5 }}" data-width="100%" data-colorscheme="{{ site.comments.facebook.colorscheme | default: 'light' }}"></section>
