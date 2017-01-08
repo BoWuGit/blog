@@ -1,7 +1,7 @@
 ---
 modified:
 layout: single
-title: "知无知盘点2016讲座侧记"
+title: "知无知盘点2016讲座侧记【生活】"
 categories: life
 excerpt:
 #tags: []
