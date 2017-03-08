@@ -2,7 +2,7 @@
 modified:
 layout: single
 title: "总学馆师生见面会札记【生活】"
-categories: civilization
+categories: life
 excerpt:
 #tags: []
 header:
