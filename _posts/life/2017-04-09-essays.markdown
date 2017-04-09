@@ -4,6 +4,7 @@ layout: single
 title: "礼遇老郭家小院【生活】"
 categories: life
 excerpt:
+    晚上9点多，大家都渐渐地回去了。我觉得老郭及传知行的一帮旧友，还能相聚在一起做事，真是难能可贵，而且还志同道合，多元并包，希望他们能用心把事做好。对我来说，能接触这群人，就是很好的经历。
 #tags: []
 header:
     teaser: http://ww1.sinaimg.cn/large/79a50e50ly1feg9x14joxj20qo0zkjw5.jpg
