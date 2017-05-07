@@ -7,7 +7,7 @@ excerpt:
     作者在访谈中直言很多矛盾、困惑的事，比如爱情、苦难与生存，严肃的讨论，读完后未必能得要领，也未必会深思，但这种阅读本身就是有魅力的。
 #tags: []
 header:
-    teaser: http://bsyimg4.cdn.krcom.cn/stream/1Uman2AOcxesyjyrdOIhZZUl35vvJKRv_1494052616.jpg
+    teaser: http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBAMhJ2.img?h=324&w=486&m=6&q=60&o=f&l=f&x=309&y=149
 date: 2017-05-07T15:05:20+08:00
 ---
 
@@ -23,7 +23,7 @@ date: 2017-05-07T15:05:20+08:00
 
 >我的結論是，我曾經是一個中毒非常深的張迷，無論我有多麼討厭胡蘭成，我還是必須承認，《今生今世》的〈民國女子〉那一章，仍然是古往今來描寫張愛玲最透徹的文章之一。我的整個小說，從李國華這個角色，到我的書寫行為本身，它都是非常非常巨大的詭辯，都是對藝術所謂真善美的質疑。我想用一句話來結束，怡婷她在回顧整個大樓故事的時候，她有一句心裡話，她說：「她恍然覺得不是學文學的人，而是文學辜負了她們。」
 
-<video width="750" height="450" style='margin: 0 auto;display:block;' controls>
+<video width="100%" height="450" style='margin: 0 auto;display:block;' controls>
     <source src="http://gslb.miaopai.com/stream/1Uman2AOcxesyjyrdOIhZZUl35vvJKRv.mp4?ssig=dde9157e4193a18350198363820e29f5&time_stamp=1494145325994&cookie_id=5906b0d7ab376&vend=1&os=3&partner=1&platform=2&cookie_id=&refer=miaopai&scid=1Uman2AOcxesyjyrdOIhZZUl35vvJKRv" type="video/mp4">
 </video>
 
@@ -39,6 +39,8 @@ date: 2017-05-07T15:05:20+08:00
 
 邓丽君珍藏版视频，没想到你是这么的俏皮！ 
 
-<video width="750" height="450" style='margin: 0 auto;display:block;' controls>
+<video width="100%" height="450" style='margin: 0 auto;display:block;' controls>
     <source src="http://gslb.miaopai.com/stream/kZ5xj1xOx4PfEDk4zi0XCxbossrP7DUr.mp4?ssig=4ef606db944fcba7e6320dd9801bd1a6&time_stamp=1494124319910&cookie_id=5906b0d7ab376&vend=1&os=3&partner=1&platform=2&cookie_id=&refer=miaopai&scid=kZ5xj1xOx4PfEDk4zi0XCxbossrP7DUr" type="video/mp4">
 </video>
+
+
