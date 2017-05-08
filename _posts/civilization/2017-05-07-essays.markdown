@@ -27,6 +27,8 @@ date: 2017-05-07T15:05:20+08:00
     <source src="http://gslb.miaopai.com/stream/1Uman2AOcxesyjyrdOIhZZUl35vvJKRv.mp4?ssig=dde9157e4193a18350198363820e29f5&time_stamp=1494145325994&cookie_id=5906b0d7ab376&vend=1&os=3&partner=1&platform=2&cookie_id=&refer=miaopai&scid=1Uman2AOcxesyjyrdOIhZZUl35vvJKRv" type="video/mp4">
 </video>
 
+[视频](http://gslb.miaopai.com/stream/1Uman2AOcxesyjyrdOIhZZUl35vvJKRv.mp4?ssig=dde9157e4193a18350198363820e29f5&time_stamp=1494145325994&cookie_id=5906b0d7ab376&vend=1&os=3&partner=1&platform=2&cookie_id=&refer=miaopai&scid=1Uman2AOcxesyjyrdOIhZZUl35vvJKRv)
+
 ### 科技
 
 [抑郁症无处不在，任何人都可能被侵袭](https://mp.weixin.qq.com/s/ourQDok6IT20d88du5gWYg)
@@ -43,4 +45,4 @@ date: 2017-05-07T15:05:20+08:00
     <source src="http://gslb.miaopai.com/stream/kZ5xj1xOx4PfEDk4zi0XCxbossrP7DUr.mp4?ssig=4ef606db944fcba7e6320dd9801bd1a6&time_stamp=1494124319910&cookie_id=5906b0d7ab376&vend=1&os=3&partner=1&platform=2&cookie_id=&refer=miaopai&scid=kZ5xj1xOx4PfEDk4zi0XCxbossrP7DUr" type="video/mp4">
 </video>
 
-
+[视频](http://gslb.miaopai.com/stream/kZ5xj1xOx4PfEDk4zi0XCxbossrP7DUr.mp4?ssig=4ef606db944fcba7e6320dd9801bd1a6&time_stamp=1494124319910&cookie_id=5906b0d7ab376&vend=1&os=3&partner=1&platform=2&cookie_id=&refer=miaopai&scid=kZ5xj1xOx4PfEDk4zi0XCxbossrP7DUr)
