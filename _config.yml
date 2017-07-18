@@ -19,8 +19,6 @@ teaser                   :  "/assets/images/default.jpg" # path of fallback teas
 words_per_minute         : 200
 comments:
   provider               :  "staticman" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  duoshuo:
-    shortname            : "rwxin"
   disqus:
     shortname            : "blog-n7cz28hmjc" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -92,6 +90,7 @@ author:
   facebook         :
   foursquare       :
   github           :
+  gitlab           :
   google_plus      :
   keybase          :
   instagram        :
@@ -179,8 +178,8 @@ paginate_path: /page:num/
 timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
-# Plugins
-gems:
+# Plugins (previously gems:)
+plugins_dir:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -246,13 +245,3 @@ defaults:
       comments:  true
       share: true
       related: true
-
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-      comments:  true
-
