@@ -44,10 +44,7 @@ task :preview do
 
   ENV["LISTEN_GEM_DEBUGGING"] = "1"
   listener = Listen.to(
-<<<<<<< HEAD
     base.join("_data"),
-=======
->>>>>>> f227c81aa0e2fed521dea34ed86b9214c8289277
     base.join("_includes"),
     base.join("_layouts"),
     base.join("_sass"),
