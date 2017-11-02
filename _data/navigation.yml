@@ -6,8 +6,10 @@ main:
     url: /categories/#technology
   - title: 生活
     url: /categories/#life
-  - title: IT技术
-    url: /categories/#it
+  - title: 互联网
+    url: /categories/#internet
+  - title: TWEET
+    url: https://www.tweet.rwxin.com/
   - title: 关于
     url: /about/
   - title: RSS
