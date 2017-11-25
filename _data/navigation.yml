@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: TWEET
+    url: https://www.rwrx.org/
   - title: 人文
     url: /categories/#civilization
   - title: 科技
@@ -8,8 +10,6 @@ main:
     url: /categories/#life
   - title: 互联网
     url: /categories/#internet
-  - title: TWEET
-    url: https://www.tweet.rwxin.com/
   - title: 关于
     url: /about/
   - title: RSS
