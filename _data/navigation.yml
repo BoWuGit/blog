@@ -8,8 +8,6 @@ main:
     url: /categories/#technology
   - title: 生活
     url: /categories/#life
-  - title: 互联网
-    url: /categories/#internet
   - title: 关于
     url: /about/
   - title: RSS
